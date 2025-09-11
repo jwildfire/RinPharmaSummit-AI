@@ -2,7 +2,7 @@
 
 Materials for AI Session at  R in Pharma Summit on 2025-09-15 in Atlanta, Ga. 
 
-# Panel - Are Clinical Trial Ready for GenAI?
+# Panel - Are Clinical Trials Ready for GenAI?
 
 Roundtable from 11:15-12:30. Jeremy/Devin to do ~20 minute intro leading in to panel discussion. 
 
