@@ -32,11 +32,17 @@ Panel discussion with:
 
 Discussion topics: 
 
-1. Pre-requisites for using GenAI in Pharma? Biggest Roadblocks? 
-2. Biggest Success stories to date? What works right now?
-3. Discuss emerging Human in the loop best practices. Discuss GitHub + Copilot integrations. Other Tooling? 
-4. GenAI as an analyst. Analyzing data directly vs. Writing code to analyze data.
-5. Security Overview. Risks of loading private data into public models. Prompt Injection 101. 
+1. *Are we ready?* - Pre-requisites for using GenAI in Pharma? Biggest Roadblocks? 
+2. *Lessons Learned* - Biggest Success stories to date? What works right now? What didn’t work? Why? Lessons learned?
+3. *Tooling and Pipelines* - Discuss emerging Human in the loop best practices. Discuss GitHub + Copilot integrations. Other Tooling? 
+4. *GenAI as an analyst* - Analyzing data directly vs. Writing code to analyze data.
+5. *Security Overview* - Risks of loading private data into public models. Prompt Injection 101.
+7. *Regulatory Landscape* - How are regulators (FDA, EMA, PMDA, etc.) thinking about GenAI-use in trials: guidance, precedents, gaps?
+8. *Prediction Time* - Where will we be in 5-10 years with linear growth in AI capabilities? What if growth really is exponential? 
+
+
+
+
 
 
 
